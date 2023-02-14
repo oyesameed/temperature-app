@@ -39,7 +39,7 @@ export default function Model() {
                 </div>
 
                 {/* Center */}
-                <div className ="text-white-1 pt-20 md:pt-0 pb-10">
+                <div className ="text-white-1 pt-20 md:pt-0 pb-10 px-10">
                     
                     {/* Progress bar */}
                     <ProgBar/>
