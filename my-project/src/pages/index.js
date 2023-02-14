@@ -1,5 +1,4 @@
-
-///import styles from '@/styles/Home.module.css'
+// import styles from '@/styles/Home.module.css'
 import Model from '../components/model/model';
 
 

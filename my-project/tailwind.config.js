@@ -22,10 +22,7 @@ module.exports = {
           // Whites
           'white-1': '#ededed',
           'white-2': '#9c9c9c'
-      },
-      screens: {
-        '3md': '1124px',
-      },
+      }
     },
   },
   plugins: [require("daisyui")],
